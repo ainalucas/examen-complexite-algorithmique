@@ -6,4 +6,4 @@ Prénom: Aina Lucas
 Numéro: 5
 INFO L3 GLBD
 
-Les fichies de l'examen sont dans la branche master.
+Les fichiers de l'examen sont dans la branche master.
